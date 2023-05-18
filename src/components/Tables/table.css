@@ -1,0 +1,12 @@
+.head{
+    background-color: black;
+    color:white
+}
+.dropdown_btn{
+    background: none !important;
+    border: none;
+}
+.action{
+    background: none !important;
+    border: none;
+}
